@@ -1,0 +1,26 @@
+export const links=[
+    {
+        key:'home',
+        title:"Home"
+    },
+    {
+        key:'portfolio',
+        title:"Portfolio"
+    },
+    {
+        key:'agency',
+        title:"Agency"
+    },
+    {
+        key:'services',
+        title:"Services"
+    },
+    {
+        key:'journal',
+        title:"Journal"
+    },
+    {
+        key:'contact',
+        title:"Contact"
+    }
+]
